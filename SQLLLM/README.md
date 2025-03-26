@@ -1,0 +1,1 @@
+### Genai App taking user prompt ,converting into SQL querries to fetch the data from database
